@@ -1,5 +1,4 @@
 # ceng-407-408-2023-2024-Mine-Detection-Drone
-# Mine Detection Drone
 ## Group Members (202319)
 * Ahmet Utku Gökmen (CENG) - 201911402
 * Cansu Kaymal (SENG) - 201928020
