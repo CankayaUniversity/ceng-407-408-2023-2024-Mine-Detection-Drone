@@ -14,3 +14,6 @@
 * [SRS](https://github.com/CankayaUniversity/ceng-407-408-2023-2024-Mine-Detection-Drone/wiki/SRS)
 * [Web Page](https://utkugokmen.wixsite.com/mine-detection-drone)
 * [SDD](https://github.com/CankayaUniversity/ceng-407-408-2023-2024-Mine-Detection-Drone/wiki/SDD)
+* [Project Report](https://github.com/CankayaUniversity/ceng-407-408-2023-2024-Mine-Detection-Drone/blob/main/Project_Report.pdf)
+* [Test Plan](https://github.com/CankayaUniversity/ceng-407-408-2023-2024-Mine-Detection-Drone/blob/main/Test_Plan.pdf)
+* [Project Poster](https://github.com/CankayaUniversity/ceng-407-408-2023-2024-Mine-Detection-Drone/blob/main/Project%20Poster.pdf)
